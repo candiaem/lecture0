@@ -1,0 +1,36 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+div {
+    background-color: teal;
+    width: 50%;
+    height: 50%;
+    margin: 50px;
+    padding: 50px;
+
+}
+
+
+#top {
+    font-size: 36px;
+    color: red;
+}
+
+#middle {
+    font-size: 24px;
+}
+
+#bottom {
+    font-size: 12px;
+}
+
+.name {
+    font-weight: bold;
+    color: blue;
+}
